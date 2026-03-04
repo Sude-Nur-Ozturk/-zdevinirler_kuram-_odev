@@ -1,4 +1,4 @@
-# -zdevinirler_kuram-_odev
+# ozdevinirler_kuramı_odev
 
 Bu projede veri gönderme yöntemi olarak POST ile dummy endpoint kullanımını tercih ettim. Form verilerini https://httpbin.org/post adresine method="POST" ve enctype="multipart/form-data" kullanarak gönderdim.
 
